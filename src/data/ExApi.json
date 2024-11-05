@@ -1,0 +1,1119 @@
+[
+  {
+    "id": 1,
+    "name": "segi empat",
+    "Product": [
+      {
+        "id": 1,
+        "name": "Lovila",
+        "subName": "Series 1",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Blush Pink",
+            "rgb": "#f5d8f4"
+          },
+          {
+            "name": "Ballet Slipper",
+            "rgb": "#efa9c1"
+          },
+          {
+            "name": "Candy Pink",
+            "rgb": "#fe97c8"
+          },
+          {
+            "name": "Rose Quartz",
+            "rgb": "#e95297"
+          },
+          {
+            "name": "Dove Gray",
+            "rgb": "#9c9fb1"
+          },
+          {
+            "name": "Sky Blue",
+            "rgb": "#7ed8fb"
+          },
+          {
+            "name": "Azure",
+            "rgb": "#0e82e2"
+          },
+          {
+            "name": "Deep Sea Blue",
+            "rgb": "#1e5095"
+          },
+          {
+            "name": "Periwinkle",
+            "rgb": "#d5dcf9"
+          },
+          {
+            "name": "Light Cyan",
+            "rgb": "#85cedc"
+          },
+          {
+            "name": "Teal Blue",
+            "rgb": "#0285a9"
+          },
+          {
+            "name": "Crimson Red",
+            "rgb": "#ba4a3b"
+          },
+          {
+            "name": "Sand",
+            "rgb": "#e5c687"
+          },
+          {
+            "name": "Taupe",
+            "rgb": "#d3c6c0"
+          },
+          {
+            "name": "Beige",
+            "rgb": "#c1a194"
+          },
+          {
+            "name": "Espresso",
+            "rgb": "#63453d"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Lovila",
+        "subName": "Series 2",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Ivory",
+            "rgb": "#f2ecdf"
+          },
+          {
+            "name": "Hazelnut",
+            "rgb": "#9c5f4c"
+          },
+          {
+            "name": "Lavender",
+            "rgb": "#a76ea5"
+          },
+          {
+            "name": "Salmon Pink",
+            "rgb": "#f399a4"
+          },
+          {
+            "name": "Hot Pink",
+            "rgb": "#fa4a71"
+          },
+          {
+            "name": "Crimson",
+            "rgb": "#c3354b"
+          },
+          {
+            "name": "Coral Red",
+            "rgb": "#d8514e"
+          },
+          {
+            "name": "Steel Blue",
+            "rgb": "#5e83a4"
+          },
+          {
+            "name": "Bright Cyan",
+            "rgb": "#3fbfdd"
+          },
+          {
+            "name": "Midnight Blue",
+            "rgb": "#096289"
+          },
+          {
+            "name": "Sky Blue",
+            "rgb": "#008dce"
+          },
+          {
+            "name": "Deep Blue",
+            "rgb": "#013b8b"
+          },
+          {
+            "name": "Navy Blue",
+            "rgb": "#204480"
+          },
+          {
+            "name": "Ebony",
+            "rgb": "#0f1621"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Lovila",
+        "subName": "Series 3",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Pale Sage",
+            "rgb": "#dcdfc4"
+          },
+          {
+            "name": "Olive Green",
+            "rgb": "#698f5f"
+          },
+          {
+            "name": "Deep Teal",
+            "rgb": "#065469"
+          },
+          {
+            "name": "Lavender Purple",
+            "rgb": "#b293e0"
+          },
+          {
+            "name": "Baby Blue",
+            "rgb": "#afdef9"
+          },
+          {
+            "name": "Light Lavender",
+            "rgb": "#d5b1d5"
+          },
+          {
+            "name": "Peach",
+            "rgb": "#e09d80"
+          },
+          {
+            "name": "Apricot",
+            "rgb": "#f2a160"
+          },
+          {
+            "name": "Burgundy",
+            "rgb": "#c13b3c"
+          },
+          {
+            "name": "Cherry Red",
+            "rgb": "#da324c"
+          },
+          {
+            "name": "Navy",
+            "rgb": "#1b2f4a"
+          },
+          {
+            "name": "Dark Chocolate",
+            "rgb": "#3a2930"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Lovila",
+        "subName": "Series 4",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Emerald",
+            "rgb": "#028774"
+          },
+          {
+            "name": "Slate Blue",
+            "rgb": "#214e59"
+          },
+          {
+            "name": "Cerulean",
+            "rgb": "#00a1c8"
+          },
+          {
+            "name": "Lime Green",
+            "rgb": "#a1bb1a"
+          },
+          {
+            "name": "Cobalt Blue",
+            "rgb": "#0088c4"
+          },
+          {
+            "name": "Aqua",
+            "rgb": "#74d4f6"
+          },
+          {
+            "name": "Magenta",
+            "rgb": "#c9236d"
+          },
+          {
+            "name": "Lavender Mist",
+            "rgb": "#ded1e2"
+          },
+          {
+            "name": "Pale Blue",
+            "rgb": "#b9d5ea"
+          },
+          {
+            "name": "Amethyst",
+            "rgb": "#cd78dd"
+          },
+          {
+            "name": "Scarlet",
+            "rgb": "#de2c42"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Lovila",
+        "subName": "Series 5",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Pale Pink",
+            "rgb": "#ffc6d4"
+          },
+          {
+            "name": "Fuchsia",
+            "rgb": "#f5509d"
+          },
+          {
+            "name": "Purple Haze",
+            "rgb": "#7949ac"
+          },
+          {
+            "name": "Cherry",
+            "rgb": "#d24453"
+          },
+          {
+            "name": "Coral",
+            "rgb": "#ff4f5c"
+          },
+          {
+            "name": "Peach",
+            "rgb": "#fcb076"
+          },
+          {
+            "name": "Pale Mint",
+            "rgb": "#e6f1c9"
+          },
+          {
+            "name": "Forest Green",
+            "rgb": "#078a67"
+          },
+          {
+            "name": "Cornflower Blue",
+            "rgb": "#5988ce"
+          },
+          {
+            "name": "Turquoise",
+            "rgb": "#22b2e7"
+          },
+          {
+            "name": "Mauve",
+            "rgb": "#a77167"
+          },
+          {
+            "name": "Ivory",
+            "rgb": "#f3ede5"
+          },
+          {
+            "name": "Goldenrod",
+            "rgb": "#feda5f"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Lovila",
+        "subName": "Series 8",
+        "imgUrls": [
+          "https://i.imgur.com/wKSt4Uz.jpeg",
+          "",
+          "https://i.imgur.com/ViO940y.jpeg",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Soft Lavender",
+            "rgb": "#eae5e9"
+          },
+          {
+            "name": "Warm Apricot",
+            "rgb": "#e7a16e"
+          },
+          {
+            "name": "Sunset Orange",
+            "rgb": "#fa9359"
+          },
+          {
+            "name": "Crimson",
+            "rgb": "#f52a55"
+          },
+          {
+            "name": "Midnight",
+            "rgb": "#121e38"
+          },
+          {
+            "name": "Charcoal",
+            "rgb": "#231a25"
+          },
+          {
+            "name": "Deep Ocean",
+            "rgb": "#08455a"
+          },
+          {
+            "name": "Sky Blue",
+            "rgb": "#008db5"
+          },
+          {
+            "name": "Pale Green",
+            "rgb": "#c9dbc3"
+          },
+          {
+            "name": "Pink Mist",
+            "rgb": "#efd6e9"
+          },
+          {
+            "name": "Baby Pink",
+            "rgb": "#fcb1e2"
+          },
+          {
+            "name": "Lilac",
+            "rgb": "#dca2d3"
+          },
+          {
+            "name": "Slate Gray",
+            "rgb": "#88869c"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Tierack",
+        "subName": "Polos",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Sky Light",
+            "rgb": "#c2cce5"
+          },
+          {
+            "name": "Dusty Lavender",
+            "rgb": "#7f7c9b"
+          },
+          {
+            "name": "Electric Blue",
+            "rgb": "#52b7e6"
+          },
+          {
+            "name": "Ocean Blue",
+            "rgb": "#0079ab"
+          },
+          {
+            "name": "Royal Blue",
+            "rgb": "#0063cb"
+          },
+          {
+            "name": "Dark Sapphire",
+            "rgb": "#0a1d48"
+          },
+          {
+            "name": "Black Pearl",
+            "rgb": "#080f18"
+          },
+          {
+            "name": "Soft Lavender",
+            "rgb": "#d8aff5"
+          },
+          {
+            "name": "Blush Pink",
+            "rgb": "#fbcbe1"
+          },
+          {
+            "name": "Light Coral",
+            "rgb": "#ffa2a6"
+          },
+          {
+            "name": "Ruby Red",
+            "rgb": "#f13b47"
+          },
+          {
+            "name": "Crimson Red",
+            "rgb": "#df1c46"
+          },
+          {
+            "name": "Berry",
+            "rgb": "#ae2745"
+          },
+          {
+            "name": "Peachy",
+            "rgb": "#fac78f"
+          },
+          {
+            "name": "Light Taupe",
+            "rgb": "#d5b7b9"
+          },
+          {
+            "name": "Heather",
+            "rgb": "#886978"
+          },
+          {
+            "name": "Mahogany",
+            "rgb": "#401c1f"
+          },
+          {
+            "name": "Deep Wine",
+            "rgb": "#29141b"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Bemboo",
+        "subName": "Polos",
+        "imgUrls": [
+          "https://i.imgur.com/laD5wOT.jpeg",
+          "https://i.imgur.com/fnMDvO7.jpeg",
+          "https://i.imgur.com/883Z4sN.jpeg",
+          "https://i.imgur.com/alCIAub.jpeg"
+        ],
+        "Colors": [
+          {
+            "name": "Deep Indigo",
+            "rgb": "#0f1b3d"
+          },
+          {
+            "name": "Bright Blue",
+            "rgb": "#0d5cb8"
+          },
+          {
+            "name": "Lavender Gray",
+            "rgb": "#9b93a9"
+          },
+          {
+            "name": "Light Gray",
+            "rgb": "#cfcdd8"
+          },
+          {
+            "name": "Blush Peach",
+            "rgb": "#fbd2ce"
+          },
+          {
+            "name": "Broken White",
+            "rgb": "#eaeefa"
+          },
+          {
+            "name": "Chocolate",
+            "rgb": "#4d2627"
+          },
+          {
+            "name": "Golden Brown",
+            "rgb": "#cea167"
+          },
+          {
+            "name": "Soft Pink",
+            "rgb": "#d9bcb8"
+          },
+          {
+            "name": "Beige",
+            "rgb": "#d3beb3"
+          },
+          {
+            "name": "Teal Blue",
+            "rgb": "#005a7b"
+          },
+          {
+            "name": "Aqua",
+            "rgb": "#6bc7e5"
+          },
+          {
+            "name": "Cherry Red",
+            "rgb": "#b52a43"
+          },
+          {
+            "name": "Scarlet Red",
+            "rgb": "#e93149"
+          },
+          {
+            "name": "Dusty Plum",
+            "rgb": "#9d719b"
+          },
+          {
+            "name": "Pink Frost",
+            "rgb": "#f2adcc"
+          },
+          {
+            "name": "Petal Pink",
+            "rgb": "#fddced"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Kasual",
+        "subName": "Rawis",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Blush Beige",
+            "rgb": "#dbb4b9"
+          },
+          {
+            "name": "Rose Pink",
+            "rgb": "#d5849d"
+          },
+          {
+            "name": "Coral Blush",
+            "rgb": "#e16c98"
+          },
+          {
+            "name": "Orchid",
+            "rgb": "#d77fc4"
+          },
+          {
+            "name": "Slate Purple",
+            "rgb": "#604a71"
+          },
+          {
+            "name": "Sunshine Yellow",
+            "rgb": "#f5d08c"
+          },
+          {
+            "name": "Sandstone",
+            "rgb": "#ca978a"
+          },
+          {
+            "name": "Soft Red",
+            "rgb": "#d5727c"
+          },
+          {
+            "name": "Crimson Blush",
+            "rgb": "#ed687d"
+          },
+          {
+            "name": "Ruby",
+            "rgb": "#d06183"
+          },
+          {
+            "name": "Bright Sky",
+            "rgb": "#1aa1df"
+          },
+          {
+            "name": "Steel Blue",
+            "rgb": "#5594b5"
+          },
+          {
+            "name": "Lavender Gray",
+            "rgb": "#989ec2"
+          },
+          {
+            "name": "Stormy Gray",
+            "rgb": "#6b7692"
+          },
+          {
+            "name": "Heather Gray",
+            "rgb": "#827d8b"
+          },
+          {
+            "name": "Slate",
+            "rgb": "#837880"
+          },
+          {
+            "name": "Charcoal Gray",
+            "rgb": "#4f5467"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Monocrhome",
+        "subName": "Kotak Besar",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Soft Pink",
+            "rgb": "#f6c6ed"
+          },
+          {
+            "name": "Rose",
+            "rgb": "#de8298"
+          },
+          {
+            "name": "Deep Plum",
+            "rgb": "#523a5c"
+          },
+          {
+            "name": "Mocha",
+            "rgb": "#ab9985"
+          },
+          {
+            "name": "Desert Sand",
+            "rgb": "#d2b37c"
+          },
+          {
+            "name": "Peach",
+            "rgb": "#efb891"
+          },
+          {
+            "name": "Pumpkin",
+            "rgb": "#dd8830"
+          },
+          {
+            "name": "Chestnut",
+            "rgb": "#8c604e"
+          },
+          {
+            "name": "Olive",
+            "rgb": "#909251"
+          },
+          {
+            "name": "Teal",
+            "rgb": "#2a6d64"
+          },
+          {
+            "name": "Ocean",
+            "rgb": "#03728e"
+          },
+          {
+            "name": "Steel Blue",
+            "rgb": "#3178a5"
+          },
+          {
+            "name": "Navy Blue",
+            "rgb": "#153c74"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Monocrhome",
+        "subName": "Kotak Kecil",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Peach",
+            "rgb": "#fcc3a0"
+          },
+          {
+            "name": "Crimson",
+            "rgb": "#dc5747"
+          },
+          {
+            "name": "Sage Green",
+            "rgb": "#798674"
+          },
+          {
+            "name": "Teal",
+            "rgb": "#49958a"
+          },
+          {
+            "name": "Ruby Red",
+            "rgb": "#c9354f"
+          },
+          {
+            "name": "Purple Ash",
+            "rgb": "#785b84"
+          },
+          {
+            "name": "Lavender Pink",
+            "rgb": "#eac7e3"
+          },
+          {
+            "name": "Navy Blue",
+            "rgb": "#194789"
+          },
+          {
+            "name": "Sky Blue",
+            "rgb": "#45b3f0"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Monocrhome",
+        "subName": "Burberry",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "Blush Pink",
+            "rgb": "#e5bcb8"
+          },
+          {
+            "name": "Misty Rose",
+            "rgb": "#bfaca4"
+          },
+          {
+            "name": "Sandy Beige",
+            "rgb": "#b39980"
+          },
+          {
+            "name": "Desert Sand",
+            "rgb": "#c3b180"
+          },
+          {
+            "name": "Olive Drab",
+            "rgb": "#969e6b"
+          },
+          {
+            "name": "Forest Green",
+            "rgb": "#658760"
+          },
+          {
+            "name": "Deep Teal",
+            "rgb": "#028295"
+          },
+          {
+            "name": "Ocean Blue",
+            "rgb": "#0489ad"
+          },
+          {
+            "name": "Sky Blue",
+            "rgb": "#069bd6"
+          },
+          {
+            "name": "Lavender",
+            "rgb": "#d0bccf"
+          },
+          {
+            "name": "Peach Blush",
+            "rgb": "#e5a5bf"
+          },
+          {
+            "name": "Lavender Gray",
+            "rgb": "#aa93b7"
+          },
+          {
+            "name": "Plum",
+            "rgb": "#64376a"
+          },
+          {
+            "name": "Crimson Red",
+            "rgb": "#ac142d"
+          },
+          {
+            "name": "Pale Blue",
+            "rgb": "#cbd3e7"
+          },
+          {
+            "name": "Steel Blue",
+            "rgb": "#859bc4"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Tierack",
+        "subName": "Jaquard",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Shinar",
+        "subName": "Salju",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Sania",
+        "subName": "Rawis",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "pashmina",
+    "Product" : [
+      {
+        "id": 1,
+        "name": "Monocrhome",
+        "subName": "Pashmina",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Silky",
+        "subName": "Pashmina",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Viscose",
+        "subName": "Athena",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Bemboo",
+        "subName": "Pashmina",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Imma",
+        "subName": "Pashmina",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Viscose",
+        "subName": "TX",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Tierack",
+        "subName": "Pashmina",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Voal",
+        "subName": "Pashmina",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Viscose",
+        "subName": "Denim",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Shinar",
+        "subName": "Pashmina",
+        "imgUrls": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Colors": [
+          {
+            "name": "",
+            "rgb": ""
+          },
+          {
+            "name": "",
+            "rgb": ""
+          }
+        ]
+      }
+    ]
+  }
+]
