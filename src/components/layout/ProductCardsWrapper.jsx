@@ -10,7 +10,7 @@ const ProductCardsWrapper = ({
     <div className={`${className} grid`}>
       {productsData?.map((d, i) => (
           <ProductCard
-            image={d.imgUrls[0]}
+            image={d.imgUrls}
             imageClassName={productImageClassName}
             subName={d.name}
             name={d.name}

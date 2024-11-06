@@ -18,18 +18,20 @@ const ProductPage = () => {
     categoryId = 2;
   }
 
+  // console.log(uniqueProducts)
+
   product.forEach((data) => {
     if (data.id == categoryId) {
       data.Product.forEach((data2) => {
+        console.log(data2)
         if (!seenNames.has(data2.name)) {
           seenNames.add(data2.name);
+          console.log(data2)
           uniqueProducts.push(data2);
         }
       });
     }
   });
-
-  uniqueProducts.sort((a, b) => a.name.localeCompare(b.name));
 
   return (
     <div className="bg-gray ">
