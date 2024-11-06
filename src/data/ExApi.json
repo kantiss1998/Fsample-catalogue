@@ -8,10 +8,10 @@
         "name": "Lovila",
         "subName": "Series 1",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/YCGW5gp.jpeg",
+          "https://i.imgur.com/G9fKfQP.jpeg",
+          "https://i.imgur.com/sUJB4Qd.jpeg",
+          "https://i.imgur.com/Vx4Fvtz.jpeg"
         ],
         "Colors": [
           {
@@ -272,10 +272,10 @@
         "name": "Lovila",
         "subName": "Series 5",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/v8NFgxP.jpeg",
+          "https://i.imgur.com/Vt2YBW7.jpeg",
+          "https://i.imgur.com/fSOe8cK.jpeg",
+          "https://i.imgur.com/LxWaT8s.jpeg"
         ],
         "Colors": [
           {
@@ -568,10 +568,10 @@
         "name": "Kasual",
         "subName": "Rawis",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/IL07rZ3.jpeg",
+          "https://i.imgur.com/GQd5UDe.jpeg",
+          "https://i.imgur.com/HgENjdN.jpeg",
+          "https://i.imgur.com/HfpaZup.jpeg"
         ],
         "Colors": [
           {
@@ -649,10 +649,10 @@
         "name": "Monocrhome",
         "subName": "Kotak Besar",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/KT0zpGc.jpeg",
+          "https://i.imgur.com/X0uP6LM.jpeg",
+          "https://i.imgur.com/qPySBb8.jpeg",
+          "https://i.imgur.com/dgnNmRK.jpeg"
         ],
         "Colors": [
           {
@@ -714,10 +714,10 @@
         "name": "Monocrhome",
         "subName": "Kotak Kecil",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/0hVuaTe.jpeg",
+          "https://i.imgur.com/5e2eUrp.jpeg",
+          "https://i.imgur.com/EkkDSgY.jpeg",
+          "https://i.imgur.com/Xspv574.jpeg"
         ],
         "Colors": [
           {
@@ -763,10 +763,10 @@
         "name": "Monocrhome",
         "subName": "Burberry",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/2JAqjwh.jpeg",
+          "https://i.imgur.com/CEHwDzh.jpeg",
+          "https://i.imgur.com/pZ6mq2M.jpeg",
+          "https://i.imgur.com/zUmbDaj.jpeg"
         ],
         "Colors": [
           {
@@ -835,75 +835,353 @@
           }
         ]
       },
-      {
-        "id": 13,
-        "name": "Tierack",
-        "subName": "Jaquard",
-        "imgUrls": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "Colors": [
-          {
-            "name": "",
-            "rgb": ""
-          },
-          {
-            "name": "",
-            "rgb": ""
-          }
-        ]
-      },
-      {
-        "id": 14,
-        "name": "Shinar",
-        "subName": "Salju",
-        "imgUrls": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "Colors": [
-          {
-            "name": "",
-            "rgb": ""
-          },
-          {
-            "name": "",
-            "rgb": ""
-          }
-        ]
-      },
-      {
-        "id": 14,
-        "name": "Sania",
-        "subName": "Rawis",
-        "imgUrls": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "Colors": [
-          {
-            "name": "",
-            "rgb": ""
-          },
-          {
-            "name": "",
-            "rgb": ""
-          }
-        ]
-      }
+      [
+        {
+          "id": 13,
+          "name": "Tierack",
+          "subName": "Jaquard Love",
+          "imgUrls": [
+            "https://i.imgur.com/q5vmZc5.jpeg",
+            "https://i.imgur.com/rewvjgM.jpeg",
+            "https://i.imgur.com/uNg5ruC.jpeg",
+            "https://i.imgur.com/w9KiqG0.jpeg"
+          ],
+          "Colors": [
+            {
+              "name": "Dark Red",
+              "rgb": "#992732"
+            },
+            {
+              "name": "Goldenrod",
+              "rgb": "#beac4f"
+            },
+            {
+              "name": "Dim Gray",
+              "rgb": "#56594e"
+            },
+            {
+              "name": "Peru",
+              "rgb": "#ae6924"
+            },
+            {
+              "name": "Pale Violet Red",
+              "rgb": "#b95571"
+            },
+            {
+              "name": "Steel Blue",
+              "rgb": "#5a85a7"
+            },
+            {
+              "name": "Dark Brown",
+              "rgb": "#5e3d3d"
+            },
+            {
+              "name": "Teal",
+              "rgb": "#488880"
+            },
+            {
+              "name": "Gray",
+              "rgb": "#616268"
+            },
+            {
+              "name": "Dark Khaki",
+              "rgb": "#8e8d60"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Tierack",
+          "subName": "Jaquard Daun",
+          "imgUrls": [
+            "https://i.imgur.com/GeGFikt.jpeg",
+            "https://i.imgur.com/BFsqE82.jpeg",
+            "https://i.imgur.com/KADeX7s.jpeg",
+            "https://i.imgur.com/dZfGFMO.jpeg"
+          ],
+          "Colors": [
+            {
+              "name": "Gray Olive",
+              "rgb": "#969280"
+            },
+            {
+              "name": "Green Sheen",
+              "rgb": "#779989"
+            },
+            {
+              "name": "Rosy Brown",
+              "rgb": "#9d736f"
+            },
+            {
+              "name": "Dark Magenta",
+              "rgb": "#914e74"
+            },
+            {
+              "name": "Cadet Blue",
+              "rgb": "#546a77"
+            },
+            {
+              "name": "Dark Blue",
+              "rgb": "#4f6685"
+            },
+            {
+              "name": "Taupe",
+              "rgb": "#675f5c"
+            },
+            {
+              "name": "Slate Blue",
+              "rgb": "#3e648b"
+            },
+            {
+              "name": "Light Brown",
+              "rgb": "#987d6c"
+            },
+            {
+              "name": "Light Coral",
+              "rgb": "#936a67"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Tierack",
+          "subName": "Jaquard Bunga",
+          "imgUrls": [
+            "https://i.imgur.com/BUgtQNT.jpeg",
+            "https://i.imgur.com/U9ZqncA.jpeg",
+            "https://i.imgur.com/CsWzqox.jpeg",
+            "https://i.imgur.com/1xoHywA.jpeg"
+          ],
+          "Colors": [
+            [
+              {
+                "name": "Royal Blue",
+                "rgb": "#3e5ec2"
+              },
+              {
+                "name": "Pacific Blue",
+                "rgb": "#29a6cf"
+              },
+              {
+                "name": "Black",
+                "rgb": "#0c0907"
+              },
+              {
+                "name": "Deep Aquamarine",
+                "rgb": "#3c7e6c"
+              },
+              {
+                "name": "Almond",
+                "rgb": "#eee9e5"
+              },
+              {
+                "name": "Copper",
+                "rgb": "#b57d33"
+              },
+              {
+                "name": "Hot Pink",
+                "rgb": "#ff6fdb"
+              },
+              {
+                "name": "Fiery Red",
+                "rgb": "#f22b47"
+              },
+              {
+                "name": "Powder Blue",
+                "rgb": "#cae1f0"
+              },
+              {
+                "name": "Peach Puff",
+                "rgb": "#fddb9c"
+              }
+            ]
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Shinar",
+          "subName": "Salju",
+          "imgUrls": [
+            "https://i.imgur.com/bBjYSDv.jpeg",
+            "https://i.imgur.com/P9Uno61.jpeg",
+            "https://i.imgur.com/DTjyNd0.jpeg",
+            "https://i.imgur.com/8eYUe1u.jpeg"
+          ],
+          "Colors": [
+            {
+              "name": "Dark Salmon",
+              "rgb": "#d8745d"
+            },
+            {
+              "name": "Medium Turquoise",
+              "rgb": "#7fc4b9"
+            },
+            {
+              "name": "Cornflower Blue",
+              "rgb": "#5ca4d6"
+            },
+            {
+              "name": "Goldenrod",
+              "rgb": "#d8b95c"
+            },
+            {
+              "name": "Light Gray",
+              "rgb": "#9daab2"
+            },
+            {
+              "name": "Silver",
+              "rgb": "#c0c1c6"
+            },
+            {
+              "name": "Light Gray",
+              "rgb": "#c8c7b2"
+            },
+            {
+              "name": "Thistle",
+              "rgb": "#d6d3da"
+            },
+            {
+              "name": "Pink Lavender",
+              "rgb": "#f6cde6"
+            },
+            {
+              "name": "Light Pink",
+              "rgb": "#f1cdd1"
+            },
+            {
+              "name": "Dim Gray",
+              "rgb": "#6e7074"
+            },
+            {
+              "name": "Dark Goldenrod",
+              "rgb": "#bca149"
+            },
+            {
+              "name": "Rosy Brown",
+              "rgb": "#aa9395"
+            },
+            {
+              "name": "Beige",
+              "rgb": "#decdc4"
+            },
+            {
+              "name": "Cornsilk",
+              "rgb": "#eee6cf"
+            },
+            {
+              "name": "Dark Gray",
+              "rgb": "#a29e94"
+            },
+            {
+              "name": "Sky Blue",
+              "rgb": "#58b6c2"
+            },
+            {
+              "name": "Pale Violet Red",
+              "rgb": "#aa6989"
+            },
+            {
+              "name": "Deep Pink",
+              "rgb": "#bf7888"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Sania",
+          "subName": "Rawis",
+          "imgUrls": [
+            "https://i.imgur.com/ZCL6AaT.jpeg",
+            "https://i.imgur.com/OScFCNq.jpeg",
+            "https://i.imgur.com/NxkWLE6.jpeg",
+            "https://i.imgur.com/GFf8t0J.jpeg"
+          ],
+          "Colors": [
+            {
+              "name": "Medium Aquamarine",
+              "rgb": "#9edad0"
+            },
+            {
+              "name": "Light Goldenrod Yellow",
+              "rgb": "#d7db99"
+            },
+            {
+              "name": "Bisque",
+              "rgb": "#fcdbc1"
+            },
+            {
+              "name": "Crimson",
+              "rgb": "#e1294c"
+            },
+            {
+              "name": "Dark Red",
+              "rgb": "#9d1413"
+            },
+            {
+              "name": "Sienna",
+              "rgb": "#82453c"
+            },
+            {
+              "name": "Indigo",
+              "rgb": "#4b48b2"
+            },
+            {
+              "name": "Dark Orange",
+              "rgb": "#9c2f01"
+            },
+            {
+              "name": "Orchid",
+              "rgb": "#d990ad"
+            },
+            {
+              "name": "Navajo White",
+              "rgb": "#eec789"
+            },
+            {
+              "name": "Dark Olive Green",
+              "rgb": "#88886e"
+            },
+            {
+              "name": "Black",
+              "rgb": "#272423"
+            },
+            {
+              "name": "Dark Slate Blue",
+              "rgb": "#383c63"
+            },
+            {
+              "name": "Sandy Brown",
+              "rgb": "#f18649"
+            },
+            {
+              "name": "Blanched Almond",
+              "rgb": "#fbeedf"
+            },
+            {
+              "name": "Gray",
+              "rgb": "#878080"
+            },
+            {
+              "name": "White Smoke",
+              "rgb": "#fdfdfd"
+            },
+            {
+              "name": "Aquamarine",
+              "rgb": "#8ad9bc"
+            },
+            {
+              "name": "Medium Violet Red",
+              "rgb": "#da4275"
+            }
+          ]
+        }
+      ]
     ]
   },
   {
     "id": 2,
     "name": "pashmina",
-    "Product" : [
+    "Product": [
       {
         "id": 1,
         "name": "Monocrhome",
