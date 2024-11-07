@@ -10,6 +10,12 @@ const ProductPage = () => {
   const [uniqueProducts, setUniqueProducts] = useState([]);
   const { name } = useParams()
 
+  if (!name) {
+    return <div>Loading...</div>;
+  }
+
+  console.log(name)
+
   useEffect(() => {
     const seenNames = new Set();
     let categoryId = null;

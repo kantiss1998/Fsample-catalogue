@@ -10,6 +10,12 @@ const ProductSubNamePage = () => {
   const [uniqueProducts, setUniqueProducts] = useState([]);
   const { name, subname } = useParams();
 
+  if (!name || !subname) {
+    return <div>Loading...</div>;
+  }
+
+  console.log(name, subname)
+
   useEffect(() => {
     let categoryId = null;
 
