@@ -1,40 +1,41 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import MainLayout from "../components/layout/MainLayout";
 import Container from "../components/layout/Container";
 import Header from "../components/Header";
 import ImageGallery from "../components/layout/ImageGalery";
 import DetailView from "../components/DetailView";
-import product from "../data/ExApi.json"
+import product from "../data/ExApi.json";
 
 const ProductDetail = () => {
-  let images = [];
-  const colorVarients = [];
-  const uniqueProducts = [];
+  const [images, setImages] = useState([]);
+  const [colorVarients, setColorVarients] = useState([]);
+  const [uniqueProducts, setUniqueProducts] = useState([]);
   const { name, subname, id } = useParams();
 
-  console.log(name, subname)
+  useEffect(() => {
+    // Reset data setiap kali parameter berubah
+    const filteredProducts = [];
+    const tempImages = [];
+    const tempColorVarients = [];
 
-  let categoryId = null;
-  if (name === "segiempat") {
-    categoryId = 1;
-  } else if (name === "pashmina") {
-    categoryId = 2;
-  }
+    product.forEach((data) => {
 
-  product.forEach((data) => {
-    data.Product.forEach((data2) => {
-      if (data2.name == subname) {
-        if (data2.subName == name) {
-          images = data2.imgUrls
-          uniqueProducts.push(data2)
-          data2.Colors.forEach((data3) => {
-            colorVarients.push(data3)
-          })
-        }
-      }
+        data.Product.forEach((data2) => {
+          if (data2.name === subname && data2.subName === name) {
+            tempImages.push(...data2.imgUrls);
+            filteredProducts.push(data2);
+            data2.Colors.forEach((data3) => {
+              tempColorVarients.push(data3);
+            });
+          }
+        });
     });
-  });
+
+    setImages(tempImages);
+    setUniqueProducts(filteredProducts);
+    setColorVarients(tempColorVarients);
+  }, [name, subname, id]);
 
   return (
     <div className="bg-gray min-h-screen flex flex-col">
@@ -50,12 +51,11 @@ const ProductDetail = () => {
             </div>
             <div className="w-full md:w-1/2 lg:w-2/5">
               <DetailView
-                productName={`${uniqueProducts[0]?.name} ${uniqueProducts[0]?.subName}`}
+                productName={`${uniqueProducts[0]?.name || ""} ${
+                  uniqueProducts[0]?.subName || ""
+                }`}
                 colorVarients={colorVarients}
-                about={
-                  <span>
-                  </span>
-                }
+                about={<span></span>}
               />
             </div>
           </section>

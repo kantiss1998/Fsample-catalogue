@@ -4,10 +4,7 @@ import HeroSection from "../components/HeroSection";
 import CategoriesSection from "../components/CategoriesSection";
 import Container from "../components/layout/Container";
 
-import api from "../data/ExApi.json"
-
 function HomePage() {
-  console.log(api)
   return (
     <>
       <div className="bg-gray ">

@@ -7,7 +7,6 @@ const ProductCardsWrapperSubName = ({
   className = "",
   productImageClassName = "",
 }) => {
-  console.log(productsData[0].subName)
   return (
     <div className={`${className} grid`}>
       {productsData?.map((d, i) => (
