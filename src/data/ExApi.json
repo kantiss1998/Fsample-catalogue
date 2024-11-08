@@ -1185,19 +1185,51 @@
         "name": "Monocrhome",
         "subName": "Pashmina",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/t6fJaYQ.jpeg",
+          "https://i.imgur.com/vrxQCUM.jpeg",
+          "https://i.imgur.com/KFIDktS.jpeg",
+          "https://i.imgur.com/JBBbNDE.jpeg"
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Fanta",
+            "rgb": "#fd70a3"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Peach",
+            "rgb": "#e17a8f"
+          },
+          {
+            "name": "Ungu Terong",
+            "rgb": "#ad4583"
+          },
+          {
+            "name": "Merah Cabai",
+            "rgb": "#e94253"
+          },
+          {
+            "name": "Maroon",
+            "rgb": "#913a4a"
+          },
+          {
+            "name": "Hijau Lumut",
+            "rgb": "#acab62"
+          },
+          {
+            "name": "Sand",
+            "rgb": "#d8865e"
+          },
+          {
+            "name": "Turkish",
+            "rgb": "#1b5e9e"
+          },
+          {
+            "name": "Hijau Tosca",
+            "rgb": "#0d748d"
+          },
+          {
+            "name": "Hitam",
+            "rgb": "#282c35"
           }
         ]
       },
@@ -1206,19 +1238,55 @@
         "name": "Silky",
         "subName": "Pashmina",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/09ilpQW.jpeg",
+          "https://i.imgur.com/R6P7gaZ.jpeg",
+          "https://i.imgur.com/VLZtkev.jpeg",
+          "https://i.imgur.com/3zeo7IY.jpeg"
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Broken White",
+            "rgb": "#f3f8ff"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Kuning Mas",
+            "rgb": "#d9a580"
+          },
+          {
+            "name": "Orange",
+            "rgb": "#fb8152"
+          },
+          {
+            "name": "Hijau Lumut",
+            "rgb": "#918c41"
+          },
+          {
+            "name": "Peach",
+            "rgb": "#d49cc1"
+          },
+          {
+            "name": "Fanta",
+            "rgb": "#f571b3"
+          },
+          {
+            "name": "Biru Muda",
+            "rgb": "#69c7f1"
+          },
+          {
+            "name": "Biru Tosca",
+            "rgb": "#7cade7"
+          },
+          {
+            "name": "Tommy",
+            "rgb": "#02a5e8"
+          },
+          {
+            "name": "PAN",
+            "rgb": "#0269d4"
+          },
+          {
+            "name": "Coffe",
+            "rgb": "#36252b"
           }
         ]
       },
@@ -1227,19 +1295,75 @@
         "name": "Viscose",
         "subName": "Athena",
         "imgUrls": [
-          "",
-          "",
-          "",
+          "https://i.imgur.com/1Lx0B79.jpeg",
+          "https://i.imgur.com/AkZPjn3.jpeg",
+          "https://i.imgur.com/KEOfGJL.jpeg",
           ""
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Lily",
+            "rgb": "#bfb6c7"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Bone",
+            "rgb": "#eedcce"
+          },
+          {
+            "name": "Pastel Green",
+            "rgb": "#dadfc1"
+          },
+          {
+            "name": "Blue Green",
+            "rgb": "#288799"
+          },
+          {
+            "name": "Fuzzy Wuzzy",
+            "rgb": "#c35a54"
+          },
+          {
+            "name": "Cocoa Brown",
+            "rgb": "#422d32"
+          },
+          {
+            "name": "Pink Blush",
+            "rgb": "#fbd9e4"
+          },
+          {
+            "name": "Carmine Pink",
+            "rgb": "#e84c71"
+          },
+          {
+            "name": "Mulberry",
+            "rgb": "#b34f8b"
+          },
+          {
+            "name": "Purple Taupe",
+            "rgb": "#794598"
+          },
+          {
+            "name": "Bright White",
+            "rgb": "#eff4f8"
+          },
+          {
+            "name": "Amaranth Red",
+            "rgb": "#d32d37"
+          },
+          {
+            "name": "Dark Sienna",
+            "rgb": "#63253a"
+          },
+          {
+            "name": "Blue Lagoon",
+            "rgb": "#0292c6"
+          },
+          {
+            "name": "Charcoal",
+            "rgb": "#202f4e"
+          },
+          {
+            "name": "Licorice",
+            "rgb": "#18191e"
           }
         ]
       },
@@ -1248,19 +1372,87 @@
         "name": "Bemboo",
         "subName": "Pashmina",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/yFlYdyb.jpeg",
+          "https://i.imgur.com/xxd9LGc.jpeg",
+          "https://i.imgur.com/Iz8YSIs.jpeg",
+          "https://i.imgur.com/XD2qTmN.jpeg"
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Putih",
+            "rgb": "#ebf1fd"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Abu Muda",
+            "rgb": "#d8d6e3"
+          },
+          {
+            "name": "Silver",
+            "rgb": "#a49fb3"
+          },
+          {
+            "name": "Salem",
+            "rgb": "#f9d3d1"
+          },
+          {
+            "name": "Rose Baby",
+            "rgb": "#f9ddec"
+          },
+          {
+            "name": "Peach",
+            "rgb": "#e9a7c5"
+          },
+          {
+            "name": "Fanta",
+            "rgb": "#f05790"
+          },
+          {
+            "name": "Berry",
+            "rgb": "#a4779e"
+          },
+          {
+            "name": "Khaky",
+            "rgb": "#dcc7bf"
+          },
+          {
+            "name": "Kubus",
+            "rgb": "#c99f6f"
+          },
+          {
+            "name": "Biru Tosca",
+            "rgb": "#56d8f1"
+          },
+          {
+            "name": "Hijau Tosca",
+            "rgb": "#0f769e"
+          },
+          {
+            "name": "Merah Cabai",
+            "rgb": "#e23a53"
+          },
+          {
+            "name": "Maroon",
+            "rgb": "#b23145"
+          },
+          {
+            "name": "Merah Bata",
+            "rgb": "#a6383b"
+          },
+          {
+            "name": "Coffe",
+            "rgb": "#552d2d"
+          },
+          {
+            "name": "PAN",
+            "rgb": "#206ccd"
+          },
+          {
+            "name": "Navy",
+            "rgb": "#22305c"
+          },
+          {
+            "name": "Hitam",
+            "rgb": "#1e242c"
           }
         ]
       },
@@ -1269,19 +1461,47 @@
         "name": "Imma",
         "subName": "Pashmina",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/de3Fzhv.jpeg",
+          "https://i.imgur.com/Bz1KoTX.jpeg",
+          "https://i.imgur.com/M82SS7N.jpeg",
+          "https://i.imgur.com/teekbBO.jpeg"
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Putih",
+            "rgb": "#eaedfe"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Salem",
+            "rgb": "#f3c5c4"
+          },
+          {
+            "name": "Khaky",
+            "rgb": "#cab4ad"
+          },
+          {
+            "name": "Coklat Susu",
+            "rgb": "#9e7c83"
+          },
+          {
+            "name": "Maroon",
+            "rgb": "#820f24"
+          },
+          {
+            "name": "Fanta",
+            "rgb": "#b33160"
+          },
+          {
+            "name": "Biru Tosca",
+            "rgb": "#52abc9"
+          },
+          {
+            "name": "Tosca Tua",
+            "rgb": "#2099c7"
+          },
+          {
+            "name": "Navy",
+            "rgb": "#00112d"
           }
         ]
       },
@@ -1290,19 +1510,87 @@
         "name": "Viscose",
         "subName": "TX",
         "imgUrls": [
-          "",
-          "",
-          "",
+          "https://i.imgur.com/vwB1qBq.jpeg",
+          "https://i.imgur.com/bV6U9TQ.jpeg",
+          "https://i.imgur.com/LKGULPB.jpeg",
           ""
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Cool Gray",
+            "rgb": "#80838c"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Taupe Gray",
+            "rgb": "#90878a"
+          },
+          {
+            "name": "Old Rose",
+            "rgb": "#968887"
+          },
+          {
+            "name": "Roman Silver",
+            "rgb": "#8d93a3"
+          },
+          {
+            "name": "Lavender Blue",
+            "rgb": "#b9bcce"
+          },
+          {
+            "name": "Dark Sky Blue",
+            "rgb": "#5d8292"
+          },
+          {
+            "name": "Deep Peach",
+            "rgb": "#f3be6f"
+          },
+          {
+            "name": "Light Coral",
+            "rgb": "#f8a874"
+          },
+          {
+            "name": "Copper Penny",
+            "rgb": "#be846e"
+          },
+          {
+            "name": "Rose Dust",
+            "rgb": "#a6716c"
+          },
+          {
+            "name": "Rose Beige",
+            "rgb": "#c0958f"
+          },
+          {
+            "name": "Chetwode Blue",
+            "rgb": "#8791cf"
+          },
+          {
+            "name": "Purple Mountain Majesty",
+            "rgb": "#9f82a6"
+          },
+          {
+            "name": "Pearly Purple",
+            "rgb": "#bf91ad"
+          },
+          {
+            "name": "Shocking Pink",
+            "rgb": "#e986b8"
+          },
+          {
+            "name": "Light Salmon Pink",
+            "rgb": "#f08899"
+          },
+          {
+            "name": "Light Carmine Pink",
+            "rgb": "#f9838b"
+          },
+          {
+            "name": "Hot Magenta",
+            "rgb": "#fb89a2"
+          },
+          {
+            "name": "Cotton Candy",
+            "rgb": "#f6a3bb"
           }
         ]
       },
@@ -1311,19 +1599,55 @@
         "name": "Tierack",
         "subName": "Pashmina",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/Mt1mHWM.jpeg",
+          "https://i.imgur.com/yf0bkPI.jpeg",
+          "https://i.imgur.com/83uGK5v.jpeg",
+          "https://i.imgur.com/OXfkOgC.jpeg"
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Putih",
+            "rgb": "#f3f8fe"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Salem",
+            "rgb": "#f7cdcb"
+          },
+          {
+            "name": "Khaky",
+            "rgb": "#d8c6cc"
+          },
+          {
+            "name": "Coklat Susu",
+            "rgb": "#a7909a"
+          },
+          {
+            "name": "Sand",
+            "rgb": "#e3b085"
+          },
+          {
+            "name": "Fanta",
+            "rgb": "#e34071"
+          },
+          {
+            "name": "Lilac",
+            "rgb": "#c090e2"
+          },
+          {
+            "name": "Ungu Terong",
+            "rgb": "#ad519e"
+          },
+          {
+            "name": "Merah Cabai",
+            "rgb": "#d33641"
+          },
+          {
+            "name": "Maroon",
+            "rgb": "#9e2438"
+          },
+          {
+            "name": "Coffe",
+            "rgb": "#331d21"
           }
         ]
       },
@@ -1332,19 +1656,83 @@
         "name": "Voal",
         "subName": "Pashmina",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/1QtT17i.jpeg",
+          "https://i.imgur.com/h8S4YJ9.png",
+          "https://i.imgur.com/iKvPIM0.jpeg",
+          "https://i.imgur.com/ejQ4oG4.jpeg"
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Coral Pink",
+            "rgb": "#ff8277"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Torch Red",
+            "rgb": "#fc4655"
+          },
+          {
+            "name": "Brick Red",
+            "rgb": "#c83848"
+          },
+          {
+            "name": "Rosewood",
+            "rgb": "#563a39"
+          },
+          {
+            "name": "Platinum",
+            "rgb": "#dddde5"
+          },
+          {
+            "name": "Electric Blue",
+            "rgb": "#4bc9e1"
+          },
+          {
+            "name": "Teal Blue",
+            "rgb": "#317987"
+          },
+          {
+            "name": "Azure",
+            "rgb": "#376bb6"
+          },
+          {
+            "name": "Gunmetal",
+            "rgb": "#282f44"
+          },
+          {
+            "name": "Ebony",
+            "rgb": "#272730"
+          },
+          {
+            "name": "Snow White",
+            "rgb": "#f7f7ff"
+          },
+          {
+            "name": "Peach Pink",
+            "rgb": "#fdb6a3"
+          },
+          {
+            "name": "Khaki",
+            "rgb": "#b7997f"
+          },
+          {
+            "name": "Copper",
+            "rgb": "#be8a5a"
+          },
+          {
+            "name": "Orchid Pink",
+            "rgb": "#f1b3c8"
+          },
+          {
+            "name": "Rose Taupe",
+            "rgb": "#af888d"
+          },
+          {
+            "name": "Red Violet",
+            "rgb": "#cf395c"
+          },
+          {
+            "name": "Mulberry Purple",
+            "rgb": "#785773"
           }
         ]
       },
@@ -1353,19 +1741,87 @@
         "name": "Viscose",
         "subName": "Denim",
         "imgUrls": [
-          "",
-          "",
-          "",
-          ""
+          "https://i.imgur.com/6klUn5M.jpeg",
+          "https://i.imgur.com/wmjBADa.jpeg",
+          "https://i.imgur.com/ba4zgCe.jpeg",
+          "https://i.imgur.com/Fm8KW7D.jpeg"
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Light Gray",
+            "rgb": "#d7d7cc"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Steel Blue",
+            "rgb": "#657b88"
+          },
+          {
+            "name": "Gunmetal Gray",
+            "rgb": "#616970"
+          },
+          {
+            "name": "Slate Blue",
+            "rgb": "#657a98"
+          },
+          {
+            "name": "Light Slate Gray",
+            "rgb": "#6b758d"
+          },
+          {
+            "name": "Cool Gray",
+            "rgb": "#868795"
+          },
+          {
+            "name": "Dim Gray",
+            "rgb": "#6a6e79"
+          },
+          {
+            "name": "Pale Taupe",
+            "rgb": "#c2b4b1"
+          },
+          {
+            "name": "Desert Sand",
+            "rgb": "#af8d83"
+          },
+          {
+            "name": "Cameo",
+            "rgb": "#e1b399"
+          },
+          {
+            "name": "Peach",
+            "rgb": "#e8978c"
+          },
+          {
+            "name": "Fuchsia Pink",
+            "rgb": "#cb93a0"
+          },
+          {
+            "name": "Raspberry Pink",
+            "rgb": "#e28fa3"
+          },
+          {
+            "name": "Cameo Pink",
+            "rgb": "#d27a92"
+          },
+          {
+            "name": "Pale Chestnut",
+            "rgb": "#de7888"
+          },
+          {
+            "name": "English Lavender",
+            "rgb": "#b08597"
+          },
+          {
+            "name": "Wisteria",
+            "rgb": "#c892bd"
+          },
+          {
+            "name": "Rhythm",
+            "rgb": "#7a7593"
+          },
+          {
+            "name": "Purple Mountain Majesty",
+            "rgb": "#9489a1"
           }
         ]
       },
@@ -1374,19 +1830,160 @@
         "name": "Shinar",
         "subName": "Pashmina",
         "imgUrls": [
-          "",
-          "",
-          "",
+          "https://i.imgur.com/pmFJnAd.jpeg",
+          "https://i.imgur.com/dbduwBI.jpeg",
+          "https://i.imgur.com/IylI2qC.jpeg",
           ""
         ],
         "Colors": [
           {
-            "name": "",
-            "rgb": ""
+            "name": "Abu Muda",
+            "rgb": "#bcbbcc"
           },
           {
-            "name": "",
-            "rgb": ""
+            "name": "Coklat Susu",
+            "rgb": "#d1afad"
+          },
+          {
+            "name": "Salem",
+            "rgb": "#fbcfbe"
+          },
+          {
+            "name": "Kubus",
+            "rgb": "#eebe7c"
+          },
+          {
+            "name": "Sunkist",
+            "rgb": "#f69a2f"
+          },
+          {
+            "name": "Rose Baby",
+            "rgb": "#facdda"
+          },
+          {
+            "name": "Peach",
+            "rgb": "#ed96ae"
+          },
+          {
+            "name": "Fanta",
+            "rgb": "#f94d7c"
+          },
+          {
+            "name": "Berry",
+            "rgb": "#a26e93"
+          },
+          {
+            "name": "Merah Cabai",
+            "rgb": "#ea3f4f"
+          },
+          {
+            "name": "Maroon",
+            "rgb": "#ae3141"
+          },
+          {
+            "name": "Bata",
+            "rgb": "#883735"
+          },
+          {
+            "name": "Khaky",
+            "rgb": "#d7c2af"
+          },
+          {
+            "name": "Army",
+            "rgb": "#7c796a"
+          },
+          {
+            "name": "Hijau Tosca",
+            "rgb": "#376879"
+          },
+          {
+            "name": "Biru Tosca",
+            "rgb": "#78d3f1"
+          },
+          {
+            "name": "PAN",
+            "rgb": "#27519b"
+          },
+          {
+            "name": "Navy",
+            "rgb": "#1e263b"
+          },
+          {
+            "name": "Hitam",
+            "rgb": "#25282f"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Tierack",
+        "subName": "DS",
+        "imgUrls": [
+          "https://i.imgur.com/buDgDrS.jpeg",
+          "https://i.imgur.com/P90AqiC.jpeg",
+          "https://i.imgur.com/4o44M4O.jpeg",
+          "https://i.imgur.com/I5AH9MS.jpeg"
+        ],
+        "Colors": [
+          {
+            "name": "Putih",
+            "rgb": "#d3edfe"
+          },
+          {
+            "name": "Hijau Lumut",
+            "rgb": "#838c6d"
+          },
+          {
+            "name": "PAN",
+            "rgb": "#0461c1"
+          },
+          {
+            "name": "Hijau Tosca",
+            "rgb": "#045f7a"
+          },
+          {
+            "name": "Navy",
+            "rgb": "#121b34"
+          },
+          {
+            "name": "Ungu",
+            "rgb": "#a397df"
+          },
+          {
+            "name": "Fanta",
+            "rgb": "#c0407b"
+          },
+          {
+            "name": "Magenta",
+            "rgb": "#bb65bc"
+          },
+          {
+            "name": "Rose Baby",
+            "rgb": "#e6d3f0"
+          },
+          {
+            "name": "Abu",
+            "rgb": "#d3c2e2"
+          },
+          {
+            "name": "Coffe",
+            "rgb": "#4a2b30"
+          },
+          {
+            "name": "Merah Cabai",
+            "rgb": "#da5457"
+          },
+          {
+            "name": "Maroon",
+            "rgb": "#bc3a58"
+          },
+          {
+            "name": "Khaky",
+            "rgb": "#f0e7ea"
+          },
+          {
+            "name": "Abu Tua",
+            "rgb": "#b9b2d3"
           }
         ]
       }

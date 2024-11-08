@@ -27,11 +27,9 @@ const ProductCard = ({
         {name}
       </h3>
       <Link to={`/${urlName}/${subName}`}>
-      <Button
-        className="bg-gray_dark text-white"
-      >
-        View product
-      </Button>
+      <Button className="bg-gray_dark hover:bg-gray-700 text-white transform hover:scale-105 hover:shadow-lg border-2 border-transparent hover:border-gray-600 transition-all duration-300">
+  View product
+</Button>
       </Link>
     </div>
   );

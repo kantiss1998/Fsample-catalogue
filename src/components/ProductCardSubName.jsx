@@ -13,7 +13,7 @@ const ProductCardSubName = ({
 }) => {
   return (
     <div className={`relative flex flex-col flex-wrap gap-y-4 ${className}`}>
-      
+
       <div
         className={`relative overflow-auto border-[8px] w-full border-white rounded-[28px] h-[56vw] sm:h-[36vw] lg:h-[26vw] ${imageClassName}`}
       >
@@ -27,11 +27,9 @@ const ProductCardSubName = ({
         {name} {subName}
       </h3>
       <Link to={`/${subName}/${name}/${id}`}>
-      <Button
-        className="bg-gray_dark text-white"
-      >
-        View product
-      </Button>
+        <Button className="bg-gray_dark hover:bg-gray-700 text-white transform hover:scale-105 hover:shadow-lg border-2 border-transparent hover:border-gray-600 transition-all duration-300">
+          View product
+        </Button>
       </Link>
     </div>
   );
